@@ -1,4 +1,4 @@
-# pyconver
+# pyconvert
 This script convert a binary file into its hex representation used to store into SQL Server VARBINARY fields
 
 ## Script arguments
